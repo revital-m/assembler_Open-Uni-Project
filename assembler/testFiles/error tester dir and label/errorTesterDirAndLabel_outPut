@@ -1,0 +1,98 @@
+[File- "errorTesterDirAndLabel.as"] Successfully opened!
+[Error: File- "errorTesterDirAndLabel.as", line - 12] "128" is too big, must be between -128 and 127.
+[Error: File- "errorTesterDirAndLabel.as", line - 13] "-129" is too small, must be between -128 and 127.
+[Error: File- "errorTesterDirAndLabel.as", line - 14] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 21] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 22] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 23] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 29] Missimg ','.
+[Error: File- "errorTesterDirAndLabel.as", line - 30] Missimg ','.
+[Error: File- "errorTesterDirAndLabel.as", line - 36] A comma befor the first operand.
+[Error: File- "errorTesterDirAndLabel.as", line - 37] Comma after the last parameter.
+[Error: File- "errorTesterDirAndLabel.as", line - 42] No parameter for .db directive.
+[Error: File- "errorTesterDirAndLabel.as", line - 51] "32768" is too big, must be between -32768 and 32767.
+[Error: File- "errorTesterDirAndLabel.as", line - 52] "-32769" is too small, must be between -32768 and 32767.
+[Error: File- "errorTesterDirAndLabel.as", line - 53] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 60] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 61] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 62] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 68] Missimg ','.
+[Error: File- "errorTesterDirAndLabel.as", line - 69] Missimg ','.
+[Error: File- "errorTesterDirAndLabel.as", line - 75] A comma befor the first operand.
+[Error: File- "errorTesterDirAndLabel.as", line - 76] Comma after the last parameter.
+[Error: File- "errorTesterDirAndLabel.as", line - 81] No parameter for .dh directive.
+[Error: File- "errorTesterDirAndLabel.as", line - 90] "2147483648" is too big, must be between -2147483648 and 2147483647.
+[Error: File- "errorTesterDirAndLabel.as", line - 91] "-2147483649" is too small, must be between -2147483648 and 2147483647.
+[Error: File- "errorTesterDirAndLabel.as", line - 92] "214748364800" is too big, must be between -2147483648 and 2147483647.
+[Error: File- "errorTesterDirAndLabel.as", line - 93] "-214748364900" is too small, must be between -2147483648 and 2147483647.
+[Error: File- "errorTesterDirAndLabel.as", line - 94] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 101] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 102] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 103] Invalid number.
+[Error: File- "errorTesterDirAndLabel.as", line - 109] Missimg ','.
+[Error: File- "errorTesterDirAndLabel.as", line - 110] Missimg ','.
+[Error: File- "errorTesterDirAndLabel.as", line - 116] A comma befor the first operand.
+[Error: File- "errorTesterDirAndLabel.as", line - 117] Comma after the last parameter.
+[Error: File- "errorTesterDirAndLabel.as", line - 122] No parameter for .dw directive.
+[Error: File- "errorTesterDirAndLabel.as", line - 129] String must be enclosed in quotes.
+[Error: File- "errorTesterDirAndLabel.as", line - 134] String must be enclosed in quotes.
+[Error: File- "errorTesterDirAndLabel.as", line - 139] Invalid string.
+[Error: File- "errorTesterDirAndLabel.as", line - 140] String must be enclosed in quotes.
+[Error: File- "errorTesterDirAndLabel.as", line - 141] The command """ is ilegal.
+[Error: File- "errorTesterDirAndLabel.as", line - 147] String must be enclosed in quotes.
+[Error: File- "errorTesterDirAndLabel.as", line - 148] String must be enclosed in quotes.
+[Error: File- "errorTesterDirAndLabel.as", line - 153] String must be enclosed in quotes.
+[Error: File- "errorTesterDirAndLabel.as", line - 170] Extern label - "externLabel", can't be an entry label as well.
+[Error: File- "errorTesterDirAndLabel.as", line - 177] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 178] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 184] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 185] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 186] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 187] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 192] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 197] Label name is empty.
+[Error: File- "errorTesterDirAndLabel.as", line - 204] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 210] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 211] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 217] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 218] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 219] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 220] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 225] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 230] Label name is empty.
+[Error: File- "errorTesterDirAndLabel.as", line - 236] Ilegal directive. 
+[Error: File- "errorTesterDirAndLabel.as", line - 237] Ilegal directive. 
+[Error: File- "errorTesterDirAndLabel.as", line - 238] Ilegal directive. 
+[Error: File- "errorTesterDirAndLabel.as", line - 255] The command "noColonAtEndOfLabel" is ilegal.
+[Error: File- "errorTesterDirAndLabel.as", line - 256] The command "noColonAtEndOfLabel" is ilegal.
+[Error: File- "errorTesterDirAndLabel.as", line - 257] The command "noColonAtEndOfLabel" is ilegal.
+[Error: File- "errorTesterDirAndLabel.as", line - 259] Illegal label - there is a white char between the lable and the char ':' .
+[Error: File- "errorTesterDirAndLabel.as", line - 260] Illegal label - there is a white char between the lable and the char ':' .
+[Error: File- "errorTesterDirAndLabel.as", line - 261] Illegal label - there is a white char between the lable and the char ':' .
+[Error: File- "errorTesterDirAndLabel.as", line - 263] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 264] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 265] Illegal label - first char must be a letter.
+[Error: File- "errorTesterDirAndLabel.as", line - 267] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 268] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 269] Illegal label - label name must be letters and numbers only.
+[Error: File- "errorTesterDirAndLabel.as", line - 271] Label name is longer then 31 characters.
+[Error: File- "errorTesterDirAndLabel.as", line - 272] Label name is longer then 31 characters.
+[Error: File- "errorTesterDirAndLabel.as", line - 273] Label name is longer then 31 characters.
+[Error: File- "errorTesterDirAndLabel.as", line - 275] Label name can't be the same as a save word.
+[Error: File- "errorTesterDirAndLabel.as", line - 276] Label name can't be the same as a save word.
+[Error: File- "errorTesterDirAndLabel.as", line - 277] Label name can't be the same as a save word.
+[Error: File- "errorTesterDirAndLabel.as", line - 280] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 281] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 283] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 284] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 285] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 287] Command type doesn't exist. 
+[Error: File- "errorTesterDirAndLabel.as", line - 288] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 289] Label already exists.
+[Error: File- "errorTesterDirAndLabel.as", line - 298] Line is longer then 80 characters.
+[Error: File- "errorTesterDirAndLabel.as", line - 299] The command "Ilegal" is ilegal.
+[Error: File- "errorTesterDirAndLabel.as", line - 160] Extern label: "externLabel" can not be initialize in this file.
+[Error: File- "errorTesterDirAndLabel.as", line - 171] Undefined entry label: "notUsedEntryLabel".
+[File- "errorTesterDirAndLabel.as"] Didn't create output files!
+[File- "errorTesterDirAndLabel.as"] Successfully closed!
+
